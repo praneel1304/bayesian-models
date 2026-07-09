@@ -1,6 +1,7 @@
 #Implementing-Bayesian-Learning-Models
 The Questionnaires and Solutions (Codes) are provided in the Repository.
 pdf formats are the questions here
+
 Assignment 2: Uses Prior Assumptions and Data-generated Likelihood Functions to Generate the Posterior Distribution.
 
 Assignment 3: Methods like Grid Estimation, Analytical Inference, Monte Carlo Integration, Markov's Chain, and Hamiltonian Monte Carlo Estimation are used to generate posterior distributions.
